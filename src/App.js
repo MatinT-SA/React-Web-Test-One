@@ -26,6 +26,7 @@ function App() {
                     <Route path='/products' element={<Products />} />
                     <Route path='/sign-up' element={<SignUp />} />
                 </Routes>
+                <p>this is just for test</p>
                 <Footer />
             </Router>
         </>
